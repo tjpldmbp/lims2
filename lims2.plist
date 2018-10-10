@@ -32,12 +32,14 @@
 				<string>com.tjpld.ls2</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
-        <key>rn-version</key>
+				<key>rn-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>lims2</string>
+				<key>releaseNotes</key>
+				<string>修改bug</string>
 			</dict>
 		</dict>
 	</array>
